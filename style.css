@@ -1,0 +1,38 @@
+body {
+    background-image: url("background1.jpg");
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid rgb(249, 244, 236);
+}
+
+.big_image {
+    width: 100%;
+}
+
+#status,
+#start {
+    font-size: 25px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    background-color: darkolivegreen;
+    width: 100%;
+    color: chartreuse;
+    font-size: 23px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
